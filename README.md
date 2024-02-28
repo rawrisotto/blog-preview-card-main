@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/rawrisotto/blog-preview-card-main)
+- Live Site URL: [Netlify](https://musical-ganache-831171.netlify.app/)
 
 ## My process
 
